@@ -1,0 +1,3 @@
+[submodule "hfs/lmms-eval"]
+	path = hfs/lmms-eval
+	url = https://github.com/EvolvingLMMs-Lab/lmms-eval.git

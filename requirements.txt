@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.45
+qwen-vl-utils
+accelerate
+opencv-python
+numpy
+Pillow
