@@ -1,6 +1,6 @@
 # HFS: Hierarchical Frame Selection for Budgeted Long Video Reasoning
 
-Training-free inference-time frame selection for long video question answering.
+Training-free inference-time frame selection for long video question answering (VQA).
 HFS consistently outperforms uniform sampling across multiple benchmarks without any fine-tuning.
 
 ---
